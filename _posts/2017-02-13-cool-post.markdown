@@ -1,6 +1,7 @@
 ---
 title: Cool post!
 date: 2017-02-13 11:06:00 Z
+layout: post
 ---
 
 hahaha
